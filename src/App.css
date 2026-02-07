@@ -144,7 +144,7 @@ a {
   margin: auto;
   width: 1280px;
   height: 600px;
-  /* background-image: url(); */
+  background-image: url(./assets/images/BIt.png);
   border-radius: 30px;
   display: flex;
   align-items: center;
@@ -536,4 +536,4 @@ a {
     flex-direction: column;
     text-align: center;
   }
-}
+}/*# sourceMappingURL=index.css.map */
