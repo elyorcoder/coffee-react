@@ -12,13 +12,13 @@ const Footer = () => {
           <div className="mini-foter">
             <img width="236" height="26" src={img6} alt="" />
             <div className="footer-text">
-              <a className="link" href="#">
+              <a className="link" href="/">
                 HOME
               </a>
-              <a className="link" href="#">
+              <a className="link" href="/">
                 ABOUT US
               </a>
-              <a className="link" href="#">
+              <a className="link" href="/">
                 Create your plan
               </a>
             </div>
